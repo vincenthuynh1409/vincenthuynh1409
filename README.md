@@ -2,10 +2,12 @@
 
 I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity professional** — currently working to build foundational knowledge in **ethical hacking, networking, operating systems, and security concepts**. I’m focused on learning through **hands‑on practice, consistent improvement, and developing real technical skills step‑by‑step**!
 
+> What motivates me most is impact. Cybersecurity isn’t just about technology and hacking; it’s about trust, responsibility, and protecting communities in an increasingly digital world. I’m driven by curiosity, problem-solving, and the challenge of understanding how systems work—and how to secure them. 
+
 ### ❕Fun Facts: 
 - 🗣️ Bilingual (*English, Vietnamese*)
 - 🧩 Solved a rubik's cube in **5 seconds** (*Average: ~15 seconds*)
-- 🎷Proficient at **3 instruments** (*Piano, Alto Saxophone, Guitar*)
+- 🎷 Proficient at **3 instruments** (*Piano, Alto Saxophone, Guitar*)
 - 👨‍💻 Cyber Operations @ MIT BWSI '26
 
 ### 📖 Currently Learning:
