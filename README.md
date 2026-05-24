@@ -10,10 +10,10 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 ### 📖 Currently Learning:
 - 🛜 Networking Fundamentals
-- 🔐 Security Concepts
+- 🔐 Security Concepts 
 - ⌨️ Programming Languages
 - 🗝️ Cryptography
-- 🚩 CTFs
+- 🚩 CTFs (*Capture The Flag*)
 
 ---
 ### 💻 Tech Stack: </b>
