@@ -4,39 +4,6 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 > I will be documenting everything in my cybersecurity journey such as notes, write-ups, labs, projects, etc :)
 
-### 📖 Currently Learning:
-- 🛜 Networking Fundamentals
-- 🔐 Security Concepts 
-- ⌨️ Programming Languages
-- 🗝️ Cryptography
-- 🚩 CTFs (*Capture The Flag*)
-
----
-### 💻 Tech Stack: </b>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webassembly/654FF0" height="40" alt="webassembly logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-</div></b>
-
-
-> **Python**, Bash, **Linux**, **Java**, **Chrome**, C, VSCode, Oracle, Assembly, **Lua**
 ---
 ### 👥 Let's Connect! :) </b>
 
