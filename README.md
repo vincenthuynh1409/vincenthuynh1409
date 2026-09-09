@@ -4,6 +4,13 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 > I will be documenting everything in my cybersecurity journey such as **notes, write-ups, labs, projects, etc** :)
 
+## 📊 GitHub Statistics
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=donut&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=donut&hide_title=true&langs_count=4&theme=dark_github)
+
+
 ## 👥 Let's Connect! :) </b>
 
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="14" height="14" alt="gmail logo"  /> Email: vincenthuynh1409@gmail.com
@@ -22,9 +29,3 @@ Link to all my repositories: [Repositories](https://github.com/vincenthuynh1409?
 - and more!
 
 > Make sure to check out my 📌 **pinned** repositories below as well! :D
-
-## 📊 GitHub Statistics
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=donut&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=donut&hide_title=true&langs_count=4&theme=dark_github)
