@@ -6,7 +6,25 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
+<a href="https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&custom_title=Vincent%E2%80%99s%20GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=dark_github">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&custom_title=Vincent%E2%80%99s%20GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://vercel.app" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=donut&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=donut&langs_count=8&card_width=320&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+  </picture>
+</a>
+
 
 ## 👥 Let's Connect! :) </b>
 
