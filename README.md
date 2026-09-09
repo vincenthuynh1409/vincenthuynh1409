@@ -1,6 +1,6 @@
 ## 👋 Hey, what's up?
 
-I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity professional** — currently working to build foundational knowledge in **ethical hacking, networking, operating systems, and security concepts**. I’m focused on learning through **hands‑on practice, consistent improvement, and developing real technical skills step‑by‑step**!
+I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity professional** — currently exploring **offensive** & **defensive** security + working to build foundational knowledge in **ethical hacking, networking, operating systems, and security concepts**. I’m focused on learning through **hands‑on practice, consistent improvement, and developing real technical skills step‑by‑step**!
 
 > I will be documenting everything in my cybersecurity journey such as **notes, write-ups, labs, projects, etc** :)
 
