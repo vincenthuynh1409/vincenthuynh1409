@@ -4,8 +4,6 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 > I will be documenting everything in my cybersecurity journey such as **notes, write-ups, labs, projects, etc** :)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409)](https://github.com/stats-organization/github-stats-extended)
-
 ## 👥 Let's Connect! :) </b>
 
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="14" height="14" alt="gmail logo"  /> Email: vincenthuynh1409@gmail.com
@@ -24,3 +22,10 @@ Link to all my repositories: [Repositories](https://github.com/vincenthuynh1409?
 - and more!
 
 > Make sure to check out my 📌 **pinned** repositories below as well! :D
+
+## 📊 GitHub Statistics
+
+[![Vincent’s GitHub stats](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409)](https://github.com/stats-organization/github-stats-extended)
+
+
+
