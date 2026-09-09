@@ -25,7 +25,6 @@ Link to all my repositories: [Repositories](https://github.com/vincenthuynh1409?
 
 ## 📊 GitHub Statistics
 
-[![Vincent’s GitHub stats](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 
 
