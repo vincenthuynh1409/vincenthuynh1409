@@ -28,14 +28,14 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 ## 👥 Let's Connect! :) </b>
 
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="14" height="14" alt="gmail logo"  /> Email: vincenthuynh1409@gmail.com
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="14" height="14" alt="linkedin logo"  /> LinkedIn: [Vincent Huynh](https://www.linkedin.com/in/vincent-huynh-4a9a143a6/)
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="14" height="14" alt="discord logo"  /> Discord: [itsvxnnyy](https://discordapp.com/users/1177311680728928379)
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="14" height="14" alt="gmail logo"  /> **Email:** vincenthuynh1409@gmail.com
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="14" height="14" alt="linkedin logo"  /> **LinkedIn:** [Vincent Huynh](https://www.linkedin.com/in/vincent-huynh-4a9a143a6/)
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="14" height="14" alt="discord logo"  /> **Discord:** [itsvxnnyy](https://discordapp.com/users/1177311680728928379)
 
 > **Click** on the *links* above to view!
 
 ## 💾 Repositories
-Link to all my repositories: [Repositories](https://github.com/vincenthuynh1409?tab=repositories)
+**Link to all my repositories:** [Repositories](https://github.com/vincenthuynh1409?tab=repositories)
 
 - Personal Projects
 - Cybersecurity Labs & Research
