@@ -8,32 +8,23 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 ## 📊 GitHub Statistics
 
-<a href="https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&custom_title=Vincent%E2%80%99s%20GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=dark_github">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=vincenthuynh1409&rank_icon=github&custom_title=Vincent%E2%80%99s%20GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="200" align="center" src="https://vercel.app" />
-  </picture>
-</a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=donut&langs_count=8&card_width=320">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=donut&langs_count=8&card_width=320&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=vincenthuynh1409&layout=compact&langs_count=8&card_width=320&theme=light_github" />
-  </picture>
-</a>
+<div align="center">
 
-<br>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vincenthuynh1409&show_icons=true&rank_icon=github&custom_title=Vincent%27s%20GitHub%20Statistics&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=6e7681&card_width=460"
+    height="195"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenthuynh1409&layout=donut&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&border_color=6e7681&card_width=320"
+    height="195"
+  />
 
-<img
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=vincenthuynh1409&background=0d1117&border=6e7681&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&card_width=790"
     height="195"
   />
 
+</div>
 
 ## 👥 Let's Connect! :) </b>
 
