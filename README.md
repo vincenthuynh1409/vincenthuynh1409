@@ -36,13 +36,4 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 > **Click** on the *links* above to view!
 
-## 💾 Repositories
-**Link to all my repositories:** [Repositories](https://github.com/vincenthuynh1409?tab=repositories)
-
-- Personal Projects
-- Cybersecurity Labs & Research
-- Write-Ups & Documentations
-- Cybersecurity Learning Notes & Resources
-- and more!
-
-> Make sure to check out my 📌 **pinned** repositories below as well! :D
+Make sure to check out my 📌 **pinned** repositories below as well! :D
