@@ -27,6 +27,13 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
   </picture>
 </a>
 
+<br>
+
+<img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vincenthuynh1409&background=0d1117&border=6e7681&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&card_width=790"
+    height="195"
+  />
+
 
 ## 👥 Let's Connect! :) </b>
 
@@ -34,7 +41,6 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="14" height="14" alt="linkedin logo"  /> **LinkedIn:** [Vincent Huynh](https://www.linkedin.com/in/vincent-huynh-4a9a143a6/)
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="14" height="14" alt="discord logo"  /> **Discord:** [itsvxnnyy](https://discordapp.com/users/1177311680728928379)
 
-> **Click** on the *links* above to view!
 
 > [!IMPORTANT]
 > Make sure to check out my 📌 **pinned** repositories below as well! :D
