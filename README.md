@@ -36,4 +36,5 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 > **Click** on the *links* above to view!
 
-Make sure to check out my 📌 **pinned** repositories below as well! :D
+> [!IMPORTANT]
+> Make sure to check out my 📌 **pinned** repositories below as well! :D
