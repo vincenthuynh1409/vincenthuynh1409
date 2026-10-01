@@ -6,6 +6,14 @@ I'm **Vincent**. I'm an **IT security enthusiast** and aspiring **cybersecurity 
 
 > I will be documenting everything in my cybersecurity journey such as **notes, write-ups, labs, projects, etc** :)
 
+<!--
+OSCP+: ▰▰▰▰▰▰▰▱▱▱ 70%
+<br>
+CPTS: ▰▱▱▱▱▱▱▱▱▱ 10%
+<br>
+CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
+-->
+
 ## 📊 GitHub Statistics
 
 <div align="center">
