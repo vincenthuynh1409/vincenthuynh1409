@@ -1,6 +1,6 @@
 ## 👋 Hey, what's up?
 
-I'm **Vincent**. I'm currently exploring **offensive** & **defensive** security + working to build foundational knowledge in **ethical hacking, networking, operating systems, and security concepts**. I’m focused on learning through **hands‑on practice, consistent improvement,** and **developing real technical skills step‑by‑step**!
+I'm **Vincent**. I'm a high school student from Dallas, Texas who recently gotten into the dynamic field of **Cybersecurity**. I'm currently exploring **offensive** & **defensive** security + working to build foundational knowledge in **ethical hacking, networking, operating systems, and security concepts**. I’m focused on learning through **hands‑on practice, consistent improvement,** and **developing real technical skills step‑by‑step**!
 
 🌐 **Portfolio Website:** https://vincenthuynh-azure.vercel.app/
 
