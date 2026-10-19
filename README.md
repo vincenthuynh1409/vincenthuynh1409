@@ -29,11 +29,6 @@ CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
     height="195"
   />
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vincenthuynh1409&background=0d1117&border=6e7681&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&card_width=790"
-    height="195"
-  />
-  
 </div>
 
 ## 👥 Let's Connect! :) </b>
