@@ -8,8 +8,6 @@ I'm currently exploring **offensive** & **defensive** security + working to buil
 
 📑 **Technical Blog:** https://vincent-huynh.gitbook.io/vincenthuynh/
 
-> I will be documenting everything in my cybersecurity journey such as **notes, write-ups, labs, projects, etc** :)
-
 <!--
 OSCP+: ▰▰▰▰▰▰▰▱▱▱ 70%
 <br>
