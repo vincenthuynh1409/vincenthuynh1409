@@ -6,7 +6,7 @@ I'm currently exploring **offensive** & **defensive** security + working to buil
 
 🌐 **Portfolio Website:** https://vincenthuynh-azure.vercel.app/
 
-📑 **Technical Blog:** https://vincent-huynh.gitbook.io/vincenthuynh/ (WIP)
+📑 **Technical Blog:** https://vincent-huynh.gitbook.io/vincent-huynh/ (WIP)
 
 <!--
 OSCP+: ▰▰▰▰▰▰▰▱▱▱ 70%
