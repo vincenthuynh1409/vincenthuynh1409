@@ -15,22 +15,8 @@ CPTS: ▰▱▱▱▱▱▱▱▱▱ 10%
 <br>
 CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 -->
-<!--
-## 📊 GitHub Statistics
 
-<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vincenthuynh1409&show_icons=true&rank_icon=github&custom_title=Vincent%27s%20GitHub%20Statistics&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=6e7681&card_width=460"
-    height="195"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenthuynh1409&layout=donut&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&border_color=6e7681&card_width=320"
-    height="195"
-  />
-
-</div>
--->
 ## 👥 Let's Connect! :) </b>
 
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="14" height="14" alt="gmail logo"  /> **Email:** vincenthuynh1409@gmail.com
