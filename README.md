@@ -15,7 +15,7 @@ CPTS: ▰▱▱▱▱▱▱▱▱▱ 10%
 <br>
 CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 -->
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -30,7 +30,7 @@ CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
   />
 
 </div>
-
+-->
 ## 👥 Let's Connect! :) </b>
 
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="14" height="14" alt="gmail logo"  /> **Email:** vincenthuynh1409@gmail.com
