@@ -2,9 +2,7 @@
 
 I'm **Vincent**. I'm a high school student from Dallas, Texas who recently gotten into the dynamic field of **Cybersecurity**. 
 
-I’m currently exploring **red** & **blue** teaming while building a foundation in **cybersecurity**, **networking**, **operating systems**, and **core security concepts**. 
-
-I’m focused on hands-on learning, improving consistently, and building real technical skills step-by-step. Also, I enjoy participating in CTF competitions!
+I’m currently exploring both **red and blue teaming** while building a strong foundation in **cybersecurity, networking, operating systems, and core security concepts**. I’m passionate about hands-on learning, continuously improving my skills, and developing practical technical experience. Also, I enjoy participating in CTF competitions!
 
 Outside of cybersecurity, you’ll usually find me working out, playing piano, solving a Rubik’s Cube in 12 seconds, playing Minecraft bedwars, or spending time with friends and family.
 
