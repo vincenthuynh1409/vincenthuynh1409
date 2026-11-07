@@ -2,7 +2,11 @@
 
 I'm **Vincent**. I'm a high school student from Dallas, Texas who recently gotten into the dynamic field of **Cybersecurity**. 
 
-I'm currently exploring **offensive** & **defensive** security + working to build foundational knowledge in **ethical hacking, networking, operating systems, and security concepts**. I’m focused on learning through **hands‑on practice, consistent improvement,** and **developing real technical skills step‑by‑step**!
+I’m currently exploring **red** & **blue** teaming while building a foundation in **cybersecurity**, **networking**, **operating systems**, and **core security concepts**. 
+
+I’m focused on hands-on learning, improving consistently, and building real technical skills step-by-step. Also, I enjoy participating in CTF competitions!
+
+Outside of cybersecurity, you’ll usually find me working out, playing piano, solving a Rubik’s Cube in 12 seconds, playing Minecraft bedwars, or spending time with friends and family.
 
 🌐 **Portfolio Website:** https://vincenthuynh-azure.vercel.app/
 
