@@ -1,6 +1,6 @@
 ## 👋 Hey, what's up?
 
-I'm **Vincent**. I'm a senior high school student from Dallas, Texas who recently gotten into the dynamic field of **Cybersecurity**. 
+I'm **Vincent**. I'm a senior high school student from Dallas, Texas who recently gotten into the dynamic field of **cybersecurity**. 
 
 I’m currently exploring both **red** and **blue** teaming while building a strong foundation in **cybersecurity**, **networking**, **operating systems**, and **core security concepts**. I’m passionate about hands-on learning, continuously improving my skills, and developing practical technical experience. Also, I enjoy participating in **CTF competitions**!
 
